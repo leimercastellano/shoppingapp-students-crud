@@ -7,7 +7,7 @@ Please, modify your client code according to the requirements.
 Bob, our devops, tell us that we have an API address where we can perform a GET to retrieve all the products from the database. The exact URL with its endpoint is:
 
 ```
-http://http://ec2-35-181-5-201.eu-west-3.compute.amazonaws.com:8080/list-products/:idTeam
+http://ec2-35-181-5-201.eu-west-3.compute.amazonaws.com:8080/list-products/:idTeam
 ```
 
 __idTeam__ is the codename assigned to you
